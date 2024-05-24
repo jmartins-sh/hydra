@@ -42,6 +42,7 @@ linux:
     - deb
   maintainer: electronjs.org
   category: Utility
+  icon: resources/icon.png
 appImage:
   artifactName: ${name}-${version}.${ext}
 npmRebuild: false
